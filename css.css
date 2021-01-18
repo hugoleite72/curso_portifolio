@@ -1,0 +1,87 @@
+body{
+    background-color: #363636;
+}
+
+.cabecalho{
+            background-color: #363636;
+            width: auto;
+            height: auto;
+            color: white;
+            padding-top: 30px;
+            
+            
+}
+
+
+
+.card{
+    width: 520px;
+    height: 200px;
+    background-color: black;
+    margin-left: 60px;
+    padding: 8px;
+    position: fixed;
+    float: left;
+    
+}
+
+span{
+    color:#00FFFF
+    ;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+
+.menu{
+    background-color: black;
+    width: 250px;
+    height: 150px;
+    margin-top: 350px;
+    margin-left: 175px;
+    border-radius: 10px;
+    padding: 8px;
+    text-align: center;
+    float: left;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.skills{
+    width: 200px;
+    height: 350px;
+    background-color: #1C1C1C	;
+    float: right;
+    width: 500px;
+    margin-right: 100px;
+    margin-top: 100px;
+    color: white;
+    
+}
+
+#faq{
+    cursor: pointer; 
+    font-size: 15px; 
+    font-weight: bold; 
+    color: #00FFFF;
+}
+
+#lad{
+    display: none;
+    color: white;
+}
+
+span p {
+     margin-top: -25px;
+     font-size: 15px;
+     text-align: justify;
+}
