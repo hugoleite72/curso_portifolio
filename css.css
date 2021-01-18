@@ -73,6 +73,8 @@ h1{
     font-size: 15px; 
     font-weight: bold; 
     color: #00FFFF;
+    float: left;
+    
 }
 
 #lad{
@@ -84,4 +86,33 @@ span p {
      margin-top: -25px;
      font-size: 15px;
      text-align: justify;
+}
+
+#faq1{
+    cursor: pointer; 
+    font-size: 15px; 
+    font-weight: bold; 
+    color: #00FFFF;
+    float: center;
+    padding-top: -35px;
+    
+}
+
+#lad1{
+    display: none;
+    color: white;
+}
+
+#faq2{
+    cursor: pointer; 
+    font-size: 15px; 
+    font-weight: bold; 
+    color: #00FFFF;
+    float: right;
+    
+}
+
+#lad2{
+    display: none;
+    color: white;
 }
