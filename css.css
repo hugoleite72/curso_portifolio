@@ -50,30 +50,33 @@ h1{
     padding: 8px;
     text-align: center;
     float: left;
+    position: fixed;
 }
 
 h1{
     font-size: 30px;
+    color: #00FFFF;
 }
 
 .skills{
-    width: 300px;
-    height: 350px;
-    background-color: #1C1C1C	;
+   
+    height: 160px;
+    background-color: black	;
     float: right;
-    width: 500px;
+    width: 550px;
     margin-right: 100px;
-    margin-top: 100px;
+    margin-top: -20px;
     color: white;
     
 }
 
 #faq{
     cursor: pointer; 
-    font-size: 15px; 
+    font-size: 20px; 
     font-weight: bold; 
     color: #00FFFF;
     float: left;
+    padding-left: 5px;
     
 }
 
@@ -83,17 +86,18 @@ h1{
 }
 
 span p {
-     margin-top: -25px;
-     font-size: 15px;
+     margin-top: 45px;
+     font-size: 20px;
      text-align: justify;
 }
 
 #faq1{
     cursor: pointer; 
-    font-size: 15px; 
+    font-size: 20px; 
     font-weight: bold; 
     color: #00FFFF;
-    float: center;
+    float: left;
+    padding-left: 190px;
     padding-top: -35px;
     
 }
@@ -105,15 +109,49 @@ span p {
 
 #faq2{
     cursor: pointer; 
-    font-size: 15px; 
+    font-size: 20px; 
     font-weight: bold; 
     color: #00FFFF;
     float: right;
     padding-top: -35px;
+    padding-right: 5px;
     
 }
 
 #lad2{
     display: none;
     color: white;
+}
+
+
+#nomeProjeto{
+    margin-top: 300px;
+    font-size: 30px;
+    margin-right: -610px;
+}
+
+.projetos{
+    width: 400px;
+    height: 100px;
+    float: right;
+    background-color: black;
+    margin-right: 160px;
+    margin-top: -15px;
+}
+
+#nomeskills{
+    margin-top: 100px;
+    font-size: 30px;
+    margin-right: -610px;
+}
+
+#meuPortifolio{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#linkProjetos{
+    text-decoration: none;
+    color: white;
+    margin-left: 95px;
 }
