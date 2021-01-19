@@ -1,32 +1,28 @@
 body{
-    background-color: #363636;
+    background-color: white;
 }
 
-.cabecalho{
-            background-color: #363636;
-            width: auto;
-            height: auto;
-            color: white;
-            padding-top: 30px;
-            
-            
+#principal{
+    width: auto;
+    height: 200px;
+    background-color: blue;
 }
-
-
 
 .card{
     width: 520px;
     height: 200px;
-    background-color: black;
-    margin-left: 60px;
+    background-color: #00BFFF;
+    margin-left: 360px;
     padding: 8px;
-    position: fixed;
     float: left;
+    color: black;
+    margin-top: 15px;
     
 }
 
 span{
-    color:#00FFFF
+    color: black;
+    font-weight: bold;
     ;
 }
 
@@ -40,41 +36,27 @@ h1{
     font-size: 35px;
 }
 
-.menu{
-    background-color: black;
-    width: 250px;
-    height: 150px;
-    margin-top: 350px;
-    margin-left: 175px;
-    border-radius: 10px;
-    padding: 8px;
-    text-align: center;
-    float: left;
-    position: fixed;
-}
-
 h1{
     font-size: 30px;
-    color: #00FFFF;
+    color: black;
 }
 
 .skills{
    
     height: 160px;
-    background-color: black	;
-    float: right;
-    width: 550px;
-    margin-right: 100px;
-    margin-top: -20px;
-    color: white;
-    
+    background-color: #00BFFF;
+    float: left;
+    width: 520px;
+    margin-left: 360px;
+    margin-top: 300px;
+    color: black;    
 }
 
 #faq{
     cursor: pointer; 
     font-size: 20px; 
     font-weight: bold; 
-    color: #00FFFF;
+    color: black;
     float: left;
     padding-left: 5px;
     
@@ -82,7 +64,7 @@ h1{
 
 #lad{
     display: none;
-    color: white;
+    color: black;
 }
 
 span p {
@@ -95,7 +77,7 @@ span p {
     cursor: pointer; 
     font-size: 20px; 
     font-weight: bold; 
-    color: #00FFFF;
+    color: black;
     float: left;
     padding-left: 190px;
     padding-top: -35px;
@@ -104,14 +86,14 @@ span p {
 
 #lad1{
     display: none;
-    color: white;
+    color: black;
 }
 
 #faq2{
     cursor: pointer; 
     font-size: 20px; 
     font-weight: bold; 
-    color: #00FFFF;
+    color: black;
     float: right;
     padding-top: -35px;
     padding-right: 5px;
@@ -120,34 +102,23 @@ span p {
 
 #lad2{
     display: none;
-    color: white;
-}
-
-
-#nomeProjeto{
-    margin-top: 300px;
-    font-size: 30px;
-    margin-right: -610px;
+    color: black;
 }
 
 .projetos{
     width: 400px;
     height: 100px;
     float: right;
-    background-color: black;
-    margin-right: 160px;
-    margin-top: -15px;
-}
-
-#nomeskills{
-    margin-top: 100px;
-    font-size: 30px;
-    margin-right: -610px;
+    background-color: #00BFFF;
+    margin-right: 500px;
+    margin-top: -360px;
+    color: black;
 }
 
 #meuPortifolio{
     font-size: 20px;
     margin-top: 5px;
+    text-align: center;
 }
 
 #linkProjetos{
