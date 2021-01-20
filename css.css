@@ -5,7 +5,20 @@ body{
 #principal{
     width: auto;
     height: 200px;
-    background-color: blue;
+    background-color: #00BFFF;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    margin-left: 10px;
+}
+
+#a{
+    padding-top: 15px;
+    padding-left: 30px;
+    font-weight: bold;
 }
 
 .card{
@@ -22,7 +35,6 @@ body{
 
 span{
     color: black;
-    font-weight: bold;
     ;
 }
 
@@ -123,6 +135,6 @@ span p {
 
 #linkProjetos{
     text-decoration: none;
-    color: white;
+    color: black;
     margin-left: 95px;
 }
